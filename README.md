@@ -1,2 +1,2 @@
 # 2025_Summer_Intern
-2025 하계인턴 기록
+These are the Markdown and JS files for the example files used in the exhibition during the 2025 summer internship.
